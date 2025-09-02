@@ -6,7 +6,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/paradise900) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20214705) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=paradise900&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paradise900&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paradise900&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
